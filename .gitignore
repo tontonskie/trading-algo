@@ -1,0 +1,88 @@
+# osx
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# icon must ends with two \r.
+Icon
+
+# thumbnails
+._*
+
+# files that might appear on external disk
+.Spotlight-V100
+.Trashes
+
+# python
+__pycache__/
+*.py[cod]
+
+# c extensions
+*.so
+
+# distribution / packaging
+.Python
+*.egg-info/
+.installed.cfg
+*.egg
+
+# installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# unit test / coverage reports
+.tox/
+.coverage
+.cache
+nosetests.xml
+coverage.xml
+htmlcov/
+
+# Translations
+*.mo
+
+# rope
+.ropeproject
+
+# django
+*.log
+*.pot
+/media
+
+# npm
+node_modules/
+
+# compass
+.sass-cache
+
+# celery
+celerybeat.pid
+celerybeat-schedule
+
+# vagrant
+.vagrant
+
+# python-dotenv
+.env
+
+# pipenv
+.venv
+
+# vim
+[._]*.s[a-w][a-z]
+[._]s[a-w][a-z]
+*.un~
+Session.vim
+.netrwhist
+
+# pycharm
+.idea/
+
+# pytest
+.pytest/
+
+# sublime
+*.sublime-workspace
+
+# vscode
+.vscode/tags
